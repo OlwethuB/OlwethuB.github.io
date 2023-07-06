@@ -1,198 +1,168 @@
-{
-  "books": [
+  {
+  "experience": [
     {
       "id": 1,
-      "name": "To kill a Mockingbird",
-      "image": "https://i.postimg.cc/ydgsyLsG/Tokillamockingbird.png",
-      "author": "Harper Lee",
-      "desc": " To Kill a Mockingbird is both a young girl's coming-of-age story and a darker drama about the roots and consequences of racism and prejudice, probing how good and evil can coexist within a single community or individual.",
-      "category": "Novel",
-      "price": " 234",
-      "quantity": "10"
+      "plot": "1111",
+      "what": " Student ",
+      "where": "Parow High School",
+      "when": "2018 - 2022"
     },
     {
       "id": 2,
-      "name": "Cinderella is Dead",
-      "image": "https://i.postimg.cc/sxhsJC3S/376097366609179215.jpg",
-      "author": "Kalynn Bayron",
-      "desc": " The novel is focused on Sophia Grimmins, a queer teenager living in the same world as Cinderella, 200 years after her death. Young women that are coming of age are forced to attend balls to be chosen as wives of men they've never met. ",
-      "category": "Romance",
-      "price": " 400",
-      "quantity": "10"
+      "plot": "2222",
+      "what": "Cashier and Shop Assistant",
+      "where": "Big Fat Butcher",
+      "when": "2018 - 2019"
     },
     {
       "id": 3,
-      "name": "Milk and honey",
-      "image": "https://i.postimg.cc/VvPx9rv9/9781449474256-pdpxl.jpg",
-      "author": "Rupi Kaur",
-      "desc": " #1 New York Times bestseller milk and honey is a collection of poetry and prose about survival. About the experience of violence, abuse, love, loss, and femininity. The book is divided into four chapters, and each chapter serves a different purpose. Deals with a different pain. ",
-      "category": "Poetry",
-      "price": " 353",
-      "quantity": "10"
+      "plot": "3333",
+      "what": "Sunday School Teacher (volunteering)",
+      "where": "LightHouse Church Ministries",
+      "when": "2018 - 2020"
     },
     {
       "id": 4,
-      "name": "The Power of Now: A Guide to Spiritual Enlightenment",
-      "image": "https://i.postimg.cc/65n3NnCK/6708.jpg",
-      "author": " Eckhart Tolle",
-      "desc": " The Power of Now: A Guide to Spiritual Enlightenment is a book by Eckhart Tolle. It presents itself as a discussion about how people interact with themselves and others. The concept of self reflection and presence in the moment are presented along with simple exercises for the achievement of its principles ",
-      "category": "Self-help",
-      "price": " 405",
-      "quantity": "10"
+      "plot": "4444",
+      "what": "Dancer",
+      "where": "Inspired Stages (BootCamp)",
+      "when": "2019 June - August"
     },
     {
       "id": 5,
-      "name": "Kwezi",
-      "image": "https://i.postimg.cc/JtCDNqCr/image.jpg",
-      "author": "Loyiso Mkize",
-      "desc": " The comic follows a narcissistic teenage boy named Kwezi as he discovers his superhuman abilities amid the daily hustle of the fictional Gold City– a bustling metropolis modelled after Johannesburg ",
-      "category": "Comics",
-      "price": " 435",
-      "quantity": "10"
+      "plot": "5555",
+      "what": "Volunteering",
+      "where": "Small businesses",
+      "when": "2022"
     },
     {
       "id": 6,
-      "name": "Steve Jobs",
-      "image": "https://i.postimg.cc/hjrhNCHt/Steve-Jobs.jpg",
-      "author": "Walter Isaacson",
-      "desc": " The book highlights several of his multifold leadership traits, forcing you to overlook his negative qualities. If you appreciate and admire Steve Jobs and his accomplishments, this is a book that is especially worth reading. ",
-      "category": "Biography",
-      "price": " 427",
-      "quantity": "10"
+      "plot": "6666",
+      "what": "Student",
+      "where": "Life Choices Coding Academy",
+      "when": "2023 April - September"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/V6D3mCL0/Land-of-code.png",
+      "name": "Land of Code",
+      "desc": "Challenge exercise",
+      "type": "HTML & CSS",
+      "github": "https://github.com/OlwethuB/Challenge_exercises-.git",
+      "live": "https://lanofcod.netlify.app/"
+    },
+    {
+      "id": 2,
+      "image": "https://i.postimg.cc/4xcyyJcx/monkey-s-portfolio.png",
+      "name": "Monkey's portfolio",
+      "desc": "Portfolio of a Monkey(exercise)",
+      "type": "Bootstrap",
+      "github": "https://github.com/OlwethuB/Exercise_portfolio.git",
+      "live": "https://staat.netlify.app/"
+    },
+    {
+      "id": 3,
+      "image": "https://i.postimg.cc/wjdXFwzW/image-2023-07-03-104556972.png  ",
+      "name": "Portfolio",
+      "desc": "End of Module Project",
+      "type": "Bootstrap",
+      "github": "https://github.com/OlwethuB/Portfolio_Project.git",
+      "live": "https://olwethuportfolio.netlify.app/"
+    },
+    {
+      "id": 4,
+      "image": "https://i.postimg.cc/DzTj3hXL/image-2023-07-03-104908556.png",
+      "name": "BMI Calculator",
+      "desc": "Conditional calculator",
+      "type": "JavaScript",
+      "github": "https://github.com/OlwethuB/BMI_task",
+      "live": "https://bmi-calculator-task.netlify.app/"
+    },
+    {
+      "id": 5,
+      "image": "https://i.postimg.cc/k5q0FKw0/image-2023-07-03-105156573.png",
+      "name": "Temperature Convertor",
+      "desc": "Conditional calculator",
+      "type": "JavaScript",
+      "github": "https://github.com/OlwethuB/Temperature_convertor",
+      "live": "https://temperature-convertor-task.netlify.app/"
+    },
+    {
+      "id": 6,
+      "image": "https://i.postimg.cc/6qWVM6F5/image-2023-07-03-105333173.png",
+      "name": "Esoteric Bookstore",
+      "desc": "E-commerce website",
+      "type": "JavaScript",
+      "github": "https://github.com/OlwethuB/JS_EOMP",
+      "live": "https://esoteric-bookstore.netlify.app/"
+    }
+  ],
+  "tests": [
+    {
+      "id": 1,
+      "name": " ",
+      "image": "https://i.postimg.cc/0NmVVJw1/Testimonial-Examples-Featured-Image.webp",
+      "relation": " ",
+      "words": " "
+    },
+    {
+      "id": 2,
+      "name": "Candice Amon",
+      "image": "https://i.postimg.cc/cL4rb9BZ/27-candice-2022-pp1mt7sr5e41e1x5tqe2xgjgigkvycj7hlkvyrx4au.jpg",
+      "relation": "Academy Facilitator at Life Choices",
+      "words": "Olwethu is very good in communication. When facing challenges she tends to problem solve to the best of her ability. She follows instructions well and is very attentive to details. When not understanding she is not afraid to ask questions for clarity. She can work well in a team and also has the ability to work by herself and has been able to advance in these skills. She managed to maintain attendance at all times and is a very hard worker."
+    },
+    {
+      "id": 3,
+      "name": "Oslin Johnson",
+      "image": "https://i.postimg.cc/Pqk7s4h5/Ossie.png",
+      "relation": "Lecturer at Life Choices",
+      "words": "'Olwethu is a diligent person with a great personality and character. She is a hard worker willing to go the extra mile to ensure that their goal is reached within expected time. She is a very fourth coming person when comes to their ability but does not let their lack of skill deter them overcoming the challenge.'"
+    },
+    {
+      "id": 4,
+      "name": "Jamie-Lee Kinnear",
+      "image": "https://i.postimg.cc/cLSFPFkD/self-portrait.jpg",
+      "relation": "Mentor at Life Choices",
+      "words": "'Olwethu is a remarkable programmer and has an analytical approach to problem solving. She is a hardworking individual and dedicated to her work. She is a great peer and a team player. She show's initiative and I believe she would be a valuable asset to any company that would be lucky to have her.'"
+    },
+    {
+      "id": 5,
+      "name": "Caryn-Jayn Lodewyk",
+      "image": "https://i.postimg.cc/4NDtB2bn/Caryn.jpg",
+      "relation": "Colleague at Life Choices",
+      "words": "'Olwethu is a very hardworking person, When it comes to facing issues or something that she's unsure of how to do she'll go the extra mile to figure out what to do or to find a solution'"
+    },
+    {
+      "id": 6,
+      "name": "Mufuniwa Mbedzi",
+      "image": "https://i.postimg.cc/rmHzzzfz/Mufu.jpg",
+      "relation": "Colleague at Life Choices",
+      "words": "'Olwethu is someone that does her work with passion and I respect her for that'"
     },
     {
       "id": 7,
-      "name": "The Alchemist",
-      "image": "https://i.postimg.cc/MTT8KdnT/the-Alchemist.jpg",
-      "author": "Paulo Coelho",
-      "desc": " The Alchemist is a classic novel in which a boy named Santiago embarks on a journey seeking treasure in the Egyptian pyramids after having a recurring dream about it and on the way meets mentors, falls in love, and most importantly, learns the true importance of who he is and how to improve himself and focus on what really matters in life.",
-      "category": "Novel",
-      "price": " 224",
-      "quantity": "10"
+      "name": "Rabia Haucha",
+      "image": "https://i.postimg.cc/DyPJPfZp/Rabia.png",
+      "relation": "Colleague at Life Choices",
+      "words": "'Olwethu means our love, which describes how loving she is .She is really considerate when it comes to helping people and being there for them so she would work well in a group .She is the most softest-confident person I know she is not shy to ask questions .She is one of my closest friends and her thought process and the way she carries herself is really matured.She is a strong individual and gives honest opinions all the time and that's what you need in a work environment so would be the perfect candidate when looking for someone unique as her !'"
     },
     {
       "id": 8,
-      "name": "Pride and Prejudice",
-      "image": "https://i.postimg.cc/jSsCRCsF/image.jpg",
-      "author": "Jane Austen",
-      "desc": " The novel follows the character development of Elizabeth Bennet, the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.   ",
-      "category": "Romance",
-      "price": " 316",
-      "quantity": "10"
+      "name": "https://i.postimg.cc/1zwZDXRf/Liya.jpg",
+      "image": "Liyabona Mxhalisa",
+      "relation": "Colleague at Life Choices",
+      "words": "'Olwethu is a rockstar! Her hard work, positive attitude, and attention to detail make her an invaluable team member. Working with her has been an absolute pleasure, and I highly recommend her to anyone looking for a talented and dedicated professional.'"
     },
     {
       "id": 9,
-      "name": "Don't Call Us Dead: Poems",
-      "image": "https://i.postimg.cc/FzxBjT2m/9781555977856-pdpxl.jpg",
-      "author": "Danez Smithr",
-      "desc": " Don't Call Us Dead opens with a heartrending sequence that imagines an afterlife for black men shot by police, a place where suspicion, violence, and grief are forgotten and replaced with the safety, love, and longevity they deserved here on earth ",
-      "category": "Poetry",
-      "price": " 284",
-      "quantity": "10"
-    },
-    {
-      "id": 10,
-      "name": "Rich Dad Poor Dad",
-      "image": "https://i.postimg.cc/QdqdFD6n/image.jpg",
-      "author": "Robert Kiyosaki and Sharon Lechter",
-      "desc": " Rich Dad Poor Dad is a 1997 book written by Robert T. Kiyosaki and Sharon Lechter. It advocates the importance of financial literacy, financial independence and building wealth through investing in assets, real estate investing, starting and owning businesses, as well as increasing one's financial intelligence. ",
-      "category": "Self-help",
-      "price": " 368",
-      "quantity": "10"
-    },
-    {
-      "id": 11,
-      "name": "Cherub: The Recruit",
-      "image": "https://i.postimg.cc/523pnP9k/62a94c86a4a61381395336-w803h620.webp",
-      "author": "Ian Edginton and Robert Muchamore",
-      "desc": " James Choke comes from a dysfunctional family, and is often in trouble at school. When his mother dies, James is sent to a children's home, but here he is recruited into the ranks of CHERUB - a secret organisation established during World War II, which trains children between ten and seventeen as spies. ",
-      "category": "Comics",
-      "price": " 414",
-      "quantity": "10"
-    },
-    {
-      "id": 12,
-      "name": "Everything I Know About Love",
-      "image": "https://i.postimg.cc/xdnGD97f/46041465.jpg",
-      "author": "Dolly Alderton",
-      "desc": " Everything I Know About Love (Paperback) From falling in love to cementing friendships - with a few catastrophic Rod Stewart-themed house parties along the way - the journalist and author of Ghosts delivers a side-splitting, painfully relatable and unfailing candid guide to growing up and growing stronger. ",
-      "category": "Biography",
-      "price": " 391",
-      "quantity": "10"
-    },
-    {
-      "id": 13,
-      "name": "The Hitchhiker’s Guide to the Galaxy",
-      "image": "https://i.postimg.cc/VNZkRQwm/hitchhikerguide.jpg",
-      "author": "Douglas Adams",
-      "desc": " a satire on what happens around the world and what we're doing to our planet and is still relevant today. In the story, Vogons are an alien race destroying planets to make way for construction of a new hyperspace bypass. ",
-      "category": "Novel",
-      "price": "250",
-      "quantity": "10"
-    },
-    {
-      "id": 14,
-      "name": "Honey and Spice: A Reese's Book Club Pick",
-      "image": "https://i.postimg.cc/gc80R3j7/honey-spice.jpg",
-      "author": "Bolu Babalola",
-      "desc": " Honey and Spice is centered around Kikiola Banjo, a college student and aspiring journalist, who meets Malakai Korede, an enigmatic and charming transfer student. The ensuing story draws upon romance tropes that the TikTok community is currently fascinated by: fake dating, enemies-to-lovers, and university love.",
-      "category": "Romance",
-      "price": " 437",
-      "quantity": "10"
-    },
-    {
-      "id": 15,
-      "name": "Pillow Thoughts",
-      "image": "https://i.postimg.cc/9QsJq3rZ/9781449489755-pdpxl.jpg",
-      "author": "Courtney Peppernellr",
-      "desc": " Pillow Thoughts is a collection of poetry and prose about heartbreak, love, and raw emotions. It is divided into sections to read when you feel you need them most. Make a cup of tea and let yourself feel. Pillow Thoughts is a collection of poetry and prose about heartbreak, love, and raw emotions. ",
-      "category": "Poetry",
-      "price": " 337",
-      "quantity": "10"
-    },
-    {
-      "id": 16,
-      "name": "Atomic Habits",
-      "image": "https://i.postimg.cc/xCXfpz9W/image.jpg",
-      "author": "James Clear",
-      "desc": " Atomic Habits is all about making small improvements - unnoticeable on a day-to-day basis but far more meaningful in the long run. Little decisions and choices made over and over will start to add up and create significant results ",
-      "category": "Self-help",
-      "price": " 450",
-      "quantity": "10"
-    },
-    {
-      "id": 17,
-      "name": "Noughts & Crosses (Graphic Novel)",
-      "image": "https://i.postimg.cc/3JLmkwfx/Noughts-and-crosses.jpg",
-      "author": "Ian Edginton/Novel by Malorie blackman",
-      "desc": " Noughts & Crosses by Malorie Blackman is a novel set in a dystopian Britain in which society is divided by racism . Dark-skinned Crosses are privileged in society over the light-skinned noughts. Against the odds, the main characters, Sephy and Callum, fall in love across the divide which leads them into danger",
-      "category": "Comics",
-      "price": " 364",
-      "quantity": "10"
-    },
-    {
-      "id": 18,
-      "name": "The Inheritors: An Intimate Portrait of South Africa's Racial Reckoning",
-      "image": "https://i.postimg.cc/g0gZC88s/59365047.jpg",
-      "author": "Eve Fairbanks",
-      "desc": " Through the lives of Dipuo, her daughter Malaika, and Christo—one of the last white South Africans drafted to fight for the apartheid regime—award-winning journalist Eve Fairbanks probes what happens when people once locked into certain kinds of power relations find their status shifting. ",
-      "category": "Biography",
-      "price": " 336",
-      "quantity": "10"
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "full_name": " The Me",
-      "email": "me@gmail.com",
-      "password": "ThePassword"
-    },
-    {
-      "full_name": "John Doe",
-      "email": "JohnDoe@gmail.com",
-      "password": "IAmNotDead",
-      "id": 2
+      "name": "https://i.postimg.cc/SQwRLFVY/5-E82-FDA9-9827-47-C9-BA3-B-B7-BAB7613-C6-F.jpg",
+      "image": "Khazimla Mahomana",
+      "relation": "Colleague at Life Choices",
+      "words": "'Olwethu is a kind and awesome person to work with. She is extremely hard-working and once she puts her mind into something she makes sure that it gets done'"
     }
   ]
 }
+
